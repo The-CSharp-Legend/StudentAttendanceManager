@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StudentAttendanceManager.Data
 {
-    internal class ApplicationDbContext
+    public class ApplicationDbContext
     {
     }
 }

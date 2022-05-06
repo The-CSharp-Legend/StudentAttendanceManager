@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StudentAttendanceManager.Models
 {
-    internal class AppUser
+    internal class Tutorial
     {
     }
 }
